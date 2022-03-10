@@ -3,8 +3,9 @@
 
 Basic theoretical knowledge of cloud coumputing is discussed in this page along with ppts. Designed for complete beginers and can be used as last minute refrence material too. Unit wise discussion of topics.
 
-Table of contents:
+
 - [Cloud Computing Notes](#cloud-computing-notes)
+  
     - [Unit 1 : Virtualization Techniques and Overview of Distributed computing](#unit-1--virtualization-techniques-and-overview-of-distributed-computing)
     - [Unit 2 : Introduction to Cloud Computing and Migrating into a Cloud](#unit-2--introduction-to-cloud-computing-and-migrating-into-a-cloud)
     - [Unit 3 : Understanding Cloud architecture](#unit-3--understanding-cloud-architecture)
