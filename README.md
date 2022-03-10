@@ -1,5 +1,5 @@
 # Cloud Computing Notes
-> This Git repository can be used as study material for LPU Course code: CSE423 ( Cloud Computing ), check for PPT in the PPTs folder above.
+> Study material for Lovely Professional University course code: CSE423 ( Cloud Computing ), check for PPT in the PPTs folder above.
 
 Basic theoretical knowledge of cloud coumputing is discussed in this page along with ppts. Designed for complete beginers and can be used as last minute refrence material too. Unit wise discussion of topics.
 
